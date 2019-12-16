@@ -1,0 +1,6 @@
+baseURL = "http://www.mountainmotorcycleassociation.com/"
+languageCode = "en-us"
+title = "Mountain Motorcycle Association of AZ"
+theme = "hugo-theme-massively"
+publishDir = "docs"
+
