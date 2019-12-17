@@ -2,6 +2,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <footer id="footer">
     {{ with $data.contactinfo.contactformaction }}
+<!--
     <section>
       <form method="post" action="{{ . }}">
         <div class="fields">
@@ -23,6 +24,7 @@
         </ul>
       </form>
     </section>
+-->
     {{ end }}
     <section class="split contact">
         {{ with $data.contactinfo.address }}
