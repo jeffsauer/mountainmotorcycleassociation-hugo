@@ -7,3 +7,5 @@ description = 'Always something fun to do!'
 disableComments = true
 +++ 
 Throughout the year, the MMAA hosts and participates in lots of activities. Charity events, group poker runs, highway cleanup, motorcycle safety training, camaraderie breakfasts, etc.  Our members also help each other out with motorcycle maintenance and repair. There is always something fun to do!
+
+To see what kind of upcoming activities we have scheduled, please visit our [Facebook](https://www.facebook.com/groups/1624306234485352/) page.
